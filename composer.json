@@ -1,0 +1,32 @@
+{
+    "name": "webforms-core/php",
+    "description": "WebForms Core Technology - PHP Back-End Part",
+    "type": "library",
+    "license": "MIT",
+    "version": "2.1.0",
+    "authors": [
+        {
+            "name": "Elanat",
+            "homepage": "https://elanat.net",
+            "email": "info@elanat.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": ["WebForms.php"]
+    },
+    "keywords": [
+        "webforms",
+        "elanat",
+        "backend",
+        "php"
+    ],
+    "homepage": "https://elanat.net",
+    "support": {
+        "email": "info@elanat.net",
+        "source": "https://github.com/webforms-core/php"
+    }
+}
