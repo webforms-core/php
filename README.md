@@ -266,7 +266,7 @@ The Commander does not directly manipulate the browser DOM. It generates the Web
               │                     │
           Commander              Executor
               │                     │
-          PHP WFC              WebFormsJS
+          PHP WFC               WebFormsJS
               │                web-forms.js
               │                     │
      Generates commands ──► Executes commands
