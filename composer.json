@@ -21,13 +21,19 @@
     },
     "keywords": [
         "webforms",
+        "webformscore",
+        "wfc",
+        "webforms-core",
+        "server-driven",
+        "server-side",
         "elanat",
         "backend",
         "php",
         "dom",
+        "html",
         "ajax"
     ],
-    "homepage": "https://elanat.net",
+    "homepage": "https://elanat.net/webforms-core",
     "support": {
         "email": "info@elanat.net",
         "source": "https://github.com/webforms-core/php",
